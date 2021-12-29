@@ -1,4 +1,3 @@
-
 *{
   margin:0px;
   padding:0px;
@@ -10,7 +9,6 @@
   --secondary-color:#363946;
   --tertiary-color:#EAEAEA;
 }
-
 
 body{
   background-color: var(--main-color);
@@ -29,7 +27,6 @@ main{
   flex: 1;
 }
 
-
 header{
   background-color: var(--secondary-color);
   display: flex;
@@ -38,7 +35,6 @@ header{
   justify-content: space-between;
   align-items: center;
   margin-bottom: 40px;
-
 }
 
 footer  {
@@ -58,7 +54,6 @@ nav{
   justify-content: space-between;
   align-items: center;
 }
-
 
 .nav-item{
   height: 100%;
@@ -85,7 +80,6 @@ nav{
   flex-flow: row wrap;
   justify-content: flex-start;
   align-items: center;
-
 }
 
 .img-nav{
@@ -100,8 +94,6 @@ nav{
   margin-right: 20px;
 }
 
-
-
 .img-body{
   width: 128px;
   height: 128px;
@@ -115,7 +107,6 @@ nav{
 .page-body p{
   text-align: justify;
   line-height: 1.8rem ;
-  
 }
 
 .form{
@@ -163,8 +154,6 @@ nav{
   height: 120px;
 }
 
-
-
 ::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: var(--tertiary-color);
@@ -211,4 +200,52 @@ nav{
 .portafolio-item:hover{
   border:solid 1px var(--main-color);
   opacity: 0.6;
+}
+
+@media only screen and (max-width: 1200px) {
+  header{
+    flex-flow:column nowrap;
+    height: 200px;
+  }
+}
+
+
+@media only screen and (max-width: 1024px) {
+  .nav-item{
+    font-size: 1.2rem;
+    margin: 0px;
+  }
+  .img-nav{
+    width: 32px;
+    height: 32px;
+  }
+  .img-logo{
+    width: 80px;
+    height: 80px;
+  }
+  .header-logo h1{
+    font-size: 1.8rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  header{
+    height:260px;
+    margin-bottom:20px;
+    justify-content: flex-start;
+   
+  }
+  nav {
+    width: 100%;
+    flex-flow: column nowrap;
+  }
+  .nav-item{
+    width: 100%;
+  }
+  .img-nav{
+    display: none;
+  }
+  .page-body{
+    padding: 15px;
+  }
 }
