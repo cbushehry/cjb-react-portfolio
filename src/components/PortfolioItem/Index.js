@@ -17,5 +17,5 @@ const PortfolioItem = ({ item }) => {
       </div>
     );
   };
-  
+
   export default PortfolioItem;
