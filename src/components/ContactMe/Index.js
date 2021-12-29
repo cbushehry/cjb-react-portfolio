@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Image from "../../assets/images/contact-me.svg";
+import Image from "../../assets/images/contact-me.png";
 
 const ContactMe = () => {
     const [formState, setFormState] = useState({
@@ -7,7 +7,6 @@ const ContactMe = () => {
       email: "",
       message: "",
     });
-    const { name, email, message } = formState;
     const [formMessage, setFormMessage] = useState("Please Fill Out Form");
   
     const handleBlur = (e) => {

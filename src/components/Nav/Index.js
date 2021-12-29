@@ -1,9 +1,9 @@
 import { useEffect } from "react";
-import AboutMeImage from "../../assets/images/about-me.svg";
-import ContactMeImage from "../../assets/images/contact-me.svg";
-import Logo from "../../assets/images/logo.svg";
-import PortfolioImage from "../../assets/images/portfolio.svg";
-import ResumeImage from "../../assets/images/resume.svg";
+import AboutMeImage from "../../assets/images/about-me.png";
+import ContactMeImage from "../../assets/images/contact-me.png";
+import Logo from "../../assets/images/logo.png";
+import PortfolioImage from "../../assets/images/portfolio.png";
+import ResumeImage from "../../assets/images/resume.png";
 
 const Nav = ({ currentPage, setCurrentPage }) => {
     useEffect(() => {
@@ -16,7 +16,7 @@ const Nav = ({ currentPage, setCurrentPage }) => {
           "_blank"
         );
       };
-      
+
   return (
     <>
       <div className="header-logo">
