@@ -15,6 +15,7 @@ function App() {
       </header>
       <main>
         {currentPage === "About Me" && <About />}
+        {currentPage === "Contact Me" && <ContactMe />}
       </main>
       <footer>@cbushehry</footer>
     </>
