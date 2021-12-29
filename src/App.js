@@ -3,7 +3,7 @@ import "./App.css";
 import About from "./components/About";
 import ContactMe from "./components/ContactMe";
 import Nav from "./components/Nav";
-import Portafolio from "./components/Portfolio";
+import Portfolio from "./components/Portfolio";
 
 function App() {
   const [currentPage, setCurrentPage] = useState("About Me");
@@ -15,6 +15,7 @@ function App() {
       </header>
       <main>
         {currentPage === "About Me" && <About />}
+        {currentPage === "Portfolio" && <Portfolio />}
         {currentPage === "Contact Me" && <ContactMe />}
       </main>
       <footer>@cbushehry</footer>
