@@ -12,7 +12,7 @@ const Nav = ({ currentPage, setCurrentPage }) => {
 
     const handlerOpenResume = () => {
         window.open(
-          "https://cbushehry.github.io/cjb-react-portfolio/resume.pdf",
+          "https://cbushehry.github.io/cjb-react-portfolio/cjb_resume.pdf",
           "_blank"
         );
       };
