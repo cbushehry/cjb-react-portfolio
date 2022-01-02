@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cjb-react-portfolio/static/css/main.aa772344.css",
+    "main.js": "/cjb-react-portfolio/static/js/main.751dd4f5.js",
+    "static/js/787.5a1b2976.chunk.js": "/cjb-react-portfolio/static/js/787.5a1b2976.chunk.js",
+    "static/media/profile-photo.jpg": "/cjb-react-portfolio/static/media/profile-photo.d8fc3001f99d49fae16d.jpg",
+    "static/media/logo.png": "/cjb-react-portfolio/static/media/logo.1e7a683bf460cb2f93ad.png",
+    "static/media/resume.png": "/cjb-react-portfolio/static/media/resume.c6a229194a2ab89f43ed.png",
+    "static/media/contact-me.png": "/cjb-react-portfolio/static/media/contact-me.3b66fa06bd42dc9115d8.png",
+    "static/media/about-me.png": "/cjb-react-portfolio/static/media/about-me.555d200402b5475c58fe.png",
+    "index.html": "/cjb-react-portfolio/index.html",
+    "main.aa772344.css.map": "/cjb-react-portfolio/static/css/main.aa772344.css.map",
+    "main.751dd4f5.js.map": "/cjb-react-portfolio/static/js/main.751dd4f5.js.map",
+    "787.5a1b2976.chunk.js.map": "/cjb-react-portfolio/static/js/787.5a1b2976.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa772344.css",
+    "static/js/main.751dd4f5.js"
+  ]
+}
