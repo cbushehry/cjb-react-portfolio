@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect } from "react"; 
 import AboutMeImage from "../../assets/images/about-me.png";
 import ContactMeImage from "../../assets/images/contact-me.png";
 import Logo from "../../assets/images/logo.png";

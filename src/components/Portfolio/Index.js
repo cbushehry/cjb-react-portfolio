@@ -1,4 +1,4 @@
-import ImagePortfolio from "../../assets/images/portfolio.png";
+import ImagePortfolio from "../../assets/images/portfolio.png"; 
 import PortfolioItem from "../PortfolioItem";
 
 const Portfolio = () => {

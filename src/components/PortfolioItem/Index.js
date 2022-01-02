@@ -1,4 +1,4 @@
-const PortfolioItem = ({ item }) => {
+const PortfolioItem = ({ item }) => { 
     return (
       <div
         className="portfolio-item"
