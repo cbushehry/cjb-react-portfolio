@@ -1,14 +1,14 @@
 # Cameron Bushehry REACT Web Portfolio
 
-# 1. Description
+## 1. Description
 This is a full stack web application that was built using REACT and gh-pages.
 
-# 2. How to Get There
+## 2. How to Get There
 Open your favorite web browser and enter the following web address to start using the website.
 
 https://cbushehry.github.io/cjb-react-portfolio/
 
-# 3. Features
+## 3. Features
 This application includes various features including
 
 * Fully functional Navigation bar
@@ -17,7 +17,7 @@ This application includes various features including
 * A page to show off a few of my best Web Application
 * Link to download my Resume
 
-# 4. Credits / Questions
+## 4. Credits / Questions
 This application with built fully by Cameron Bushehry
 
 If you have any questions or would like to contact me please reach me through the following
@@ -25,4 +25,4 @@ If you have any questions or would like to contact me please reach me through th
 * GITHUB: https://github.com/cbushehry
 * LINKEDIN: https://www.linkedin.com/in/cbushehry/
 
-THANK YOU
+### THANK YOU
