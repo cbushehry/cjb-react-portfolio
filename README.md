@@ -21,8 +21,8 @@ This application includes various features including
 This application with built fully by Cameron Bushehry
 
 If you have any questions or would like to contact me please reach me through the following
-EMAIL: c.bushehry@gmail.com
-GITHUB: https://github.com/cbushehry
-LINKEDIN: https://www.linkedin.com/in/cbushehry/
+* EMAIL: c.bushehry@gmail.com
+* GITHUB: https://github.com/cbushehry
+* LINKEDIN: https://www.linkedin.com/in/cbushehry/
 
 THANK YOU
