@@ -8,7 +8,7 @@ const Portfolio = () => {
         technology: "HTML/CSS",
         image: "note-taker.jpg",
         description: "Application that allows the user to search and shop for classic movies from the 1930s-1960s",
-        url: "https://note-taker-cbushehry.herokuapp.com/",
+        url: "https://movie-shop-mern.herokuapp.com/",
     },
     {
         title: "Note Taker",
