@@ -4,10 +4,10 @@ import PortfolioItem from "../PortfolioItem";
 const Portfolio = () => {
   const portfolioItems = [
     {
-        title: "Note Taker",
+        title: "MERN Movie Shop",
         technology: "HTML/CSS",
         image: "note-taker.jpg",
-        description: "Application that allows the user to write & save notes",
+        description: "Application that allows the user to search and shop for classic movies from the 1930s-1960s",
         url: "https://note-taker-cbushehry.herokuapp.com/",
     },
     {
